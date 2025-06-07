@@ -302,8 +302,10 @@
     - 환자가 리모컨 버튼을 누르게 되면 워치와 휴대폰에 동시에 알림이 가게 됩니다.
     - 리모컨 버튼은 4개로 긴급/의료/기본/
 
+| 실제 구현 화면 | 로직 |
+|--|--|
+| <img width=240 src=docs/gif/리모컨.gif> | <img src="https://github.com/user-attachments/assets/cf01b813-9352-4a67-9a8d-c56476fc3f00"> |
 
-<img width=1000 src="https://github.com/user-attachments/assets/cf01b813-9352-4a67-9a8d-c56476fc3f00">
 
 
 <br>
